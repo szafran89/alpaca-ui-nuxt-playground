@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "nuxt": "^2.13.0",
-    "@snowdog/alpaca-ui": "SnowdogApps/alpaca-ui#feature/update-heading",
+    "@snowdog/alpaca-ui": "SnowdogApps/alpaca-ui#feature/update",
     "core-js": "^2.6.5"
   },
   "devDependencies": {
